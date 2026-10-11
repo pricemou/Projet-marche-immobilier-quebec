@@ -21,7 +21,6 @@ data/processed/*
 !data/processed/.gitkeep
 
 # Artefacts de sortie (régénérables depuis les notebooks)
-outputs/figures/*
 !outputs/figures/.gitkeep
 outputs/models/*
 !outputs/models/.gitkeep
